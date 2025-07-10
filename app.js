@@ -58,4 +58,8 @@ function setAnimationScroll () {
             opacity: 0
         })
     ]);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0eb06d8 (gg)
